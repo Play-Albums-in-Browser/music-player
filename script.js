@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['hey', 'summer', 'ukulele'];
+const songs = ['MrBeast Theme Song', 'We are the Champions', 'Dont Stop Me Now', 'Hey Jude', 'Let It Be', 'Bohemian Rhapsody', 'Imagine', 'Radio Video', 'Never Gonna Give You Up', 'Hide and Seek'];
 
 // Keep track of song
 let songIndex = 2;
@@ -24,7 +24,6 @@ loadSong(songs[songIndex]);
 function loadSong(song) {
   title.innerText = song;
   audio.src = `music/${song}.mp3`;
-  cover.src = `images/${song}.jpg`;
 }
 
 // Play song
