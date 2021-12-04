@@ -8,3 +8,11 @@ Create beautiful UI to play music stored in the "music folder" using the HTML5 a
 - Add play and pause functionality
 - Switch songs
 - Progress bar
+
+## Credits
+
+- Credits to Traversy Media for the code 
+
+## Links
+- Traversy Media Tutorial: https://www.youtube.com/watch?v=QTHRWGn_sJw
+- Music Player Code by Traversy Media - https://github.com/bradtraversy/vanillawebprojects/tree/master/music-player
