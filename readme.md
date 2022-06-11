@@ -1,5 +1,7 @@
 ## Music Player
 
+You can check out the project [here](https://kendalldoescoding.gq/musicplayer).. Although, the site is marked as malware for some reason, idk what the issue is.
+
 Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
 
 ## Project Specifications
