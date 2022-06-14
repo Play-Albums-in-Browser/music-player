@@ -22,7 +22,7 @@ body {
 .music-container {
   background-color: #fff;
   border-radius: 15px;
-  box-shadow: 0 20px 20px 0 rgba(252, 169, 169, 0.6);
+  box-shadow: 0 20px 20px 0 green;
   display: flex;
   padding: 20px 30px;
   position: relative;
@@ -48,7 +48,7 @@ body {
 }
 
 .img-container img {
-  border-radius: 50%;
+  border-radius: 70%;
   object-fit: cover;
   height: 110px;
   width: inherit;
@@ -101,7 +101,7 @@ body {
 }
 
 .music-info {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: 6CC4A1;
   border-radius: 15px 15px 0 0;
   position: absolute;
   top: 0;
